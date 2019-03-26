@@ -6,10 +6,15 @@ improvements could be implemented in this area of fundamental importance to the 
 Our project will be based on these main points:
 
 •	Leaving appointments online
+
 •	Keeping medical records of each patient in digital form
+
 •	Keeping records of emergency entries and hospitalizations
+
 •	Showing medical personnel timetables
+
 • Agenda of each Doctor
+
 • Drug Recipe
 
 The implementation of the idea will work closely with polyclinics by having access at their databases for patients they forward to our system. Patients , which will have their own account in our system, will be the ones to set appointments on doctor’s timetable and doctors can share the medical records with the patient. After the specialist doctor finishes the appointments, updated patient records are sent back for download.
