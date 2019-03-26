@@ -17,7 +17,7 @@ Our project will be based on these main points:
 
 • Drug Recipe
 
-The implementation of the idea will work closely with polyclinics by having access at their databases for patients they forward to our system. Patients , which will have their own account in our system, will be the ones to set appointments on doctor’s timetable and doctors can share the medical records with the patient. After the specialist doctor finishes the appointments, updated patient records are sent back for download.
+The implementation of the idea will work closely with polyclinics by having constant contact. Patients , which will have their own account in our system, will be the ones to set appointments on doctor’s timetable and doctors can share the medical records with the patient. After the specialist doctor finishes the appointments, updated patient records are sent back for download.
 
 Each doctor will have his/her own account where he/she can add patients, set new appointments, write appointment notes which are added to patient records, check the medical records of a patient, check hospitalized patients’ progress. In addition the specialist doctor can send requests to the hospital receptionist to reserve a bed to hospitalize a patient, if he sees it necessary after an appointment.
 
