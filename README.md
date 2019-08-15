@@ -1,4 +1,4 @@
-# Clinic Managment System
+# Clinic Management System
 This project aims, after an overview of the health care system and welfare Albanian to examine,
 based on the current organizational structure of the same, what can be the possible
 improvements could be implemented in this area of fundamental importance to the national health department such as medical records being on paper and people waiting in long lines, we came up with the idea of creating a Web-based Application to digitalize the way the public hospitals in our country work.
